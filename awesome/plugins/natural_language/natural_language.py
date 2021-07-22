@@ -8,7 +8,7 @@ import nonebot
 
 import config
 from awesome.adminControl import permission as perm
-from awesome.plugins.setu import sauce_helper
+from awesome.plugins.setu.setu import sauce_helper
 from awesome.plugins.util.helper_util import anime_reverse_search_response
 from qq_bot_core import admin_control, user_control_module
 
